@@ -7,4 +7,4 @@ this is the 2nd heading
 
 
 # Branch
-changes in the branch code
+changes in the branch code. A conflict change. Change at temp branch
